@@ -45,8 +45,8 @@
  ## Image
    ![Budget-Tracker-App](/public/Assets/Budget-Tracker-Screenshot.png)
  ## Links
-  * GitHub repository link: https://github.com/Enxhis/Budget-Tracker
-  * Heroku deployed link:   https://serene-inlet-40069.herokuapp.com/
+  * GitHub repository link: https://github.com/progg1992/budgetTracker
+  * Heroku deployed link:   https://budget-tracker2021.herokuapp.com/
  
  ## Contribution
   * Enxhi Salaj and code provided from Trilogy
@@ -55,5 +55,5 @@
    ![License badge](https://img.shields.io/badge/license-MIT-green)
   
   ## Questions
-   * If you have questions, email me at: enxhi_salaj@yahoo.com,
-   * GitHub Profile link: https://github.com/Enxhis
+   * If you have questions, email me at: ptrogg1992@gmail.com,
+   * GitHub Profile link: https://github.com/progg1992

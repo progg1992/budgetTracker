@@ -49,7 +49,7 @@
   * Heroku deployed link:   https://serene-inlet-40069.herokuapp.com/
  
  ## Contribution
-  * Enxhi Salaj and code provided from Trilogy
+  * Pierce Rogg
  
  ## Licence
    ![License badge](https://img.shields.io/badge/license-MIT-green)
